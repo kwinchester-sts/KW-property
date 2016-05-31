@@ -1,0 +1,8 @@
+webpack*
+<<<<<<< HEAD
+server.js
+=======
+devServer.js
+>>>>>>> master
+karma.conf.js
+tests.webpack.js
